@@ -192,7 +192,7 @@ contract MyTrap is ITrap {
 
 - No constructor args for the trap contract.
 
-  -If you need constants (addresses, thresholds), hardcode them or use immutable with no constructor inputs, Drosera expects a predictable ABI.
+  - If you need constants (addresses, thresholds), hardcode them or use immutable with no constructor inputs, Drosera expects a predictable ABI.
 
 - Deterministic:
 
